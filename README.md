@@ -20,15 +20,6 @@
 
 &nbsp;
 
-### 📊Stats
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yiyoonseo&theme=dracula&hide_border=true" />
-
-</p>
-
-&nbsp;
-
 ### 📫 Contact Me
 <p align="left">
   <a href="mailto:q01022189040@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
