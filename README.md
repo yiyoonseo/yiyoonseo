@@ -1,8 +1,12 @@
 #  
-<p align='center'>
-<img src = "https://i.pinimg.com/originals/e4/fb/13/e4fb134bf43184850bb4463c38c41c79.gif"/>
-</p>
-&nbsp;
+
+<div align='center' style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://i.pinimg.com/originals/e4/fb/13/e4fb134bf43184850bb4463c38c41c79.gif" width="200"/>
+  
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/yiyoonseo" width='500'/>
+  </a>
+</div>
 
 ### 🛠 Tech Stack
 
